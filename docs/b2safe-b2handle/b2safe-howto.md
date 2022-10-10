@@ -13,8 +13,10 @@ PYHANDLE is used.
 ## Installation Details
 
 The following describes the procedure to enable B2SAFE release-4.x.y
-NOTE: This B2SAFE version makes use of the pyhandle library. It can be found at: https://github.com/EUDAT-B2HANDLE/PYHANDLE
+
+**NOTE**: This B2SAFE version makes use of the pyhandle library. It can be found at: https://github.com/EUDAT-B2HANDLE/PYHANDLE
 Please use the included instructions in README.md to install pyhandle.
+
 At the end of this installation the installation of pyhandle is described.
 
 Please visit the following URL to connect B2SAFE and B2HADNLE. 
