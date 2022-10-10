@@ -1,0 +1,9 @@
+{
+  "label": "B2SAFE - How is connected to B2HANDLE",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "
+    The EUDAT B2SAFE Service offers functionality to replicate datasets across different data centres in a safe and efficient way while maintaining all information required to easily find and query information about the replica locations. The information about the replica locations and other important information is stored in PID (Persistent IDentifier) records via B2HANDLE service, each managed in separate administrative domains."
+  }
+}
