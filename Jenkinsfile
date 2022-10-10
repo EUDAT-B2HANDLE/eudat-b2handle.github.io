@@ -22,7 +22,6 @@ pipeline {
                 echo 'Publish B2HANDLE docs...'
                 sh '''
                     cd $WORKSPACE/$PROJECT_DIR
-                    cd website
                     npm install
                 '''
                 sshagent (credentials: ['jenkins-master']) {
