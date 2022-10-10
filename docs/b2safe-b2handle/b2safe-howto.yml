@@ -8,6 +8,7 @@ The EUDAT B2SAFE Service offers functionality to replicate datasets across diffe
 
 The B2SAFE version we are referring in this document is 4.x.y .
 
+PYHANDLE is used.
 
 ## Installation Details
 
@@ -18,3 +19,5 @@ At the end of this installation the installation of pyhandle is described.
 
 Please visit the following URL to connect B2SAFE and B2HADNLE. 
  [Installation Process](https://gitlab.eudat.eu/b2safe/B2SAFE-core/-/blob/master/install_centos7.md)
+ 
+ 
