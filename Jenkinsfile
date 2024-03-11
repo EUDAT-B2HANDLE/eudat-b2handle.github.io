@@ -31,6 +31,7 @@ pipeline {
                         git config --global user.email ${GH_EMAIL}
                         git config --global user.name ${GH_USER}
                         echo ${GH_USER}
+                        npm install
                         GIT_USER=${GH_USER} USE_SSH=true npm run deploy
                     '''
                 }
