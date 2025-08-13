@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Request an account
+# How to request an account
 
 In order to start using the service you need a Prefix and of course an account. 
 
